@@ -1,7 +1,8 @@
-from string import ascii_uppercase
+#########################################
+# this will give you only 50% of points #
+#########################################
 
-def basic_commands():
-    pass
+from string import ascii_uppercase
 
 
 def run(program):
